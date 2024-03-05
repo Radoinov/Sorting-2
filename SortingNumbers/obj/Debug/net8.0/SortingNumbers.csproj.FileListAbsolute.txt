@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Domashna3.5.24\SortingNumbers\bin\Debug\net8.0\SortingNumbers.exe
+C:\Users\User\source\repos\Domashna3.5.24\SortingNumbers\bin\Debug\net8.0\SortingNumbers.deps.json
+C:\Users\User\source\repos\Domashna3.5.24\SortingNumbers\bin\Debug\net8.0\SortingNumbers.runtimeconfig.json
+C:\Users\User\source\repos\Domashna3.5.24\SortingNumbers\bin\Debug\net8.0\SortingNumbers.dll
+C:\Users\User\source\repos\Domashna3.5.24\SortingNumbers\bin\Debug\net8.0\SortingNumbers.pdb
+C:\Users\User\source\repos\Domashna3.5.24\SortingNumbers\obj\Debug\net8.0\SortingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Domashna3.5.24\SortingNumbers\obj\Debug\net8.0\SortingNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Domashna3.5.24\SortingNumbers\obj\Debug\net8.0\SortingNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\Domashna3.5.24\SortingNumbers\obj\Debug\net8.0\SortingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Domashna3.5.24\SortingNumbers\obj\Debug\net8.0\SortingNumbers.dll
+C:\Users\User\source\repos\Domashna3.5.24\SortingNumbers\obj\Debug\net8.0\refint\SortingNumbers.dll
+C:\Users\User\source\repos\Domashna3.5.24\SortingNumbers\obj\Debug\net8.0\SortingNumbers.pdb
+C:\Users\User\source\repos\Domashna3.5.24\SortingNumbers\obj\Debug\net8.0\SortingNumbers.genruntimeconfig.cache
+C:\Users\User\source\repos\Domashna3.5.24\SortingNumbers\obj\Debug\net8.0\ref\SortingNumbers.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SquaredSorting/1.0.0": {
+        "runtime": {
+          "SquaredSorting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SquaredSorting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
